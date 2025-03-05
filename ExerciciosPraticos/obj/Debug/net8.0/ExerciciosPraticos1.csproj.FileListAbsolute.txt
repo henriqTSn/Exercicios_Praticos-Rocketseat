@@ -1,0 +1,14 @@
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\bin\Debug\net8.0\ExerciciosPraticos1.exe
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\bin\Debug\net8.0\ExerciciosPraticos1.deps.json
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\bin\Debug\net8.0\ExerciciosPraticos1.runtimeconfig.json
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\bin\Debug\net8.0\ExerciciosPraticos1.dll
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\bin\Debug\net8.0\ExerciciosPraticos1.pdb
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.AssemblyInfoInputs.cache
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.AssemblyInfo.cs
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.csproj.CoreCompileInputs.cache
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.dll
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\refint\ExerciciosPraticos1.dll
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.pdb
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ExerciciosPraticos1.genruntimeconfig.cache
+E:\Nova pasta (2)\ExercíciosPráticos\ExercíciosPráticos\obj\Debug\net8.0\ref\ExerciciosPraticos1.dll
