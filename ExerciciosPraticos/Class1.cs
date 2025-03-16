@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-public class Teste1
+public class Class1
 {
     static void Main()
     {
